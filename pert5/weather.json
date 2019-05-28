@@ -1,0 +1,62 @@
+{
+	"current": {
+		"city": {
+			"coord": {
+				"_lon": "-0.13",
+				"_lat": "51.51"
+			},
+			"country": "GB",
+			"sun": {
+				"_rise": "2019-03-12T06:21:42",
+				"_set": "2019-03-12T17:59:45"
+			},
+			"_id": "2643743",
+			"_name": "London"
+		},
+		"temperature": {
+			"_value": "280.74",
+			"_min": "279.82",
+			"_max": "281.48",
+			"_unit": "kelvin"
+		},
+		"humidity": {
+			"_value": "87",
+			"_unit": "%"
+		},
+		"pressure": {
+			"_value": "1011",
+			"_unit": "hPa"
+		},
+		"wind": {
+			"speed": {
+				"_value": "9.3",
+				"_name": "Fresh Breeze"
+			},
+			"gusts": "",
+			"direction": {
+				"_value": "200",
+				"_code": "SSW",
+				"_name": "South-southwest"
+			}
+		},
+		"clouds": {
+			"_value": "90",
+			"_name": "overcast clouds"
+		},
+		"visibility": {
+			"_value": "10000"
+		},
+		"precipitation": {
+			"_mode": "rain",
+			"_unit": "1h"
+		},
+		"weather": {
+			"_number": "500",
+			"_value": "light rain",
+			"_icon": "10n"
+		},
+		"lastupdate": {
+			"_value": "2019-03-12T05:40:38"
+		}
+	}
+}

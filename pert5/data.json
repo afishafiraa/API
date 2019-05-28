@@ -1,0 +1,48 @@
+[
+    {
+    "nik" : "SV/14104",
+    "Umur": 19,
+    "name" :
+        {
+            "firstname" : "Shafira",
+            "lastname" : "Ananda"
+        }
+    },
+    {
+        "nik" : "SV/14104",
+        "Umur": 19,
+        "name" :
+            {
+                "firstname" : "Shafira",
+                "lastname" : "Ananda"
+            }
+        },
+    {
+        "nik" : "SV/14104",
+        "Umur": 19,
+        "name" :
+            {
+               "firstname" : "Shafira",
+                    "lastname" : "Ananda"
+            }
+        },
+    {
+        "nik" : "SV/14104",
+        "Umur": 19,
+        "name" :
+            {
+                "firstname" : "Shafira",
+                "lastname" : "Ananda"
+            }
+         },
+    {
+        "nik" : "SV/14104",
+        "Umur": 19,
+        "name" :
+            {
+                "firstname" : "Shafira",
+                "lastname" : "Ananda"
+            },
+        "hobi" : ["tidur","makan"]
+    }    
+]

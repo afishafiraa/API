@@ -1,0 +1,169 @@
+{
+	"rss": {
+		"channel": {
+			"units": {
+				"_distance": "km",
+				"_pressure": "mbar",
+				"_speed": "km/h",
+				"_temperature": "C",
+				"__prefix": "yweather"
+			},
+			"title": "Yahoo! Weather - Sunnyvale, CA, US",
+			"link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2502265/",
+			"description": "Yahoo! Weather for Sunnyvale, CA, US",
+			"language": "en-us",
+			"lastBuildDate": "Wed, 09 Jan 2019 12:32 PM PST",
+			"ttl": "60",
+			"location": {
+				"_city": "Sunnyvale",
+				"_country": "United States",
+				"_region": " CA",
+				"__prefix": "yweather"
+			},
+			"wind": {
+				"_chill": "59",
+				"_direction": "135",
+				"_speed": "13",
+				"__prefix": "yweather"
+			},
+			"atmosphere": {
+				"_humidity": "80",
+				"_pressure": "1011.0",
+				"_rising": "0",
+				"_visibility": "16.1",
+				"__prefix": "yweather"
+			},
+			"astronomy": {
+				"_sunrise": "7:23 am",
+				"_sunset": "5:8 pm",
+				"__prefix": "yweather"
+			},
+			"image": {
+				"title": "Yahoo! Weather",
+				"width": "142",
+				"height": "18",
+				"link": "http://weather.yahoo.com",
+				"url": "http://l.yimg.com/a/i/brand/purplelogo//uh/us/news-wea.gif"
+			},
+			"item": {
+				"title": "Conditions for Sunnyvale, CA, US at 11:00 AM PST",
+				"lat": {
+					"__prefix": "geo",
+					"__text": "37.371609"
+				},
+				"long": {
+					"__prefix": "geo",
+					"__text": "-122.038254"
+				},
+				"link": "http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2502265/",
+				"pubDate": "Wed, 09 Jan 2019 11:00 AM PST",
+				"condition": {
+					"_code": "26",
+					"_date": "Wed, 09 Jan 2019 11:00 AM PST",
+					"_temp": "15",
+					"_text": "Cloudy",
+					"__prefix": "yweather"
+				},
+				"forecast": [
+					{
+						"_code": "11",
+						"_date": "09 Jan 2019",
+						"_day": "Wed",
+						"_high": "16",
+						"_low": "10",
+						"_text": "Showers",
+						"__prefix": "yweather"
+					},
+					{
+						"_code": "28",
+						"_date": "10 Jan 2019",
+						"_day": "Thu",
+						"_high": "15",
+						"_low": "8",
+						"_text": "Mostly Cloudy",
+						"__prefix": "yweather"
+					},
+					{
+						"_code": "12",
+						"_date": "11 Jan 2019",
+						"_day": "Fri",
+						"_high": "15",
+						"_low": "8",
+						"_text": "Rain",
+						"__prefix": "yweather"
+					},
+					{
+						"_code": "12",
+						"_date": "12 Jan 2019",
+						"_day": "Sat",
+						"_high": "16",
+						"_low": "9",
+						"_text": "Rain",
+						"__prefix": "yweather"
+					},
+					{
+						"_code": "11",
+						"_date": "13 Jan 2019",
+						"_day": "Sun",
+						"_high": "14",
+						"_low": "9",
+						"_text": "Showers",
+						"__prefix": "yweather"
+					},
+					{
+						"_code": "39",
+						"_date": "14 Jan 2019",
+						"_day": "Mon",
+						"_high": "15",
+						"_low": "8",
+						"_text": "Scattered Showers",
+						"__prefix": "yweather"
+					},
+					{
+						"_code": "39",
+						"_date": "15 Jan 2019",
+						"_day": "Tue",
+						"_high": "14",
+						"_low": "7",
+						"_text": "Scattered Showers",
+						"__prefix": "yweather"
+					},
+					{
+						"_code": "11",
+						"_date": "16 Jan 2019",
+						"_day": "Wed",
+						"_high": "15",
+						"_low": "10",
+						"_text": "Showers",
+						"__prefix": "yweather"
+					},
+					{
+						"_code": "11",
+						"_date": "17 Jan 2019",
+						"_day": "Thu",
+						"_high": "15",
+						"_low": "10",
+						"_text": "Showers",
+						"__prefix": "yweather"
+					},
+					{
+						"_code": "28",
+						"_date": "18 Jan 2019",
+						"_day": "Fri",
+						"_high": "15",
+						"_low": "10",
+						"_text": "Mostly Cloudy",
+						"__prefix": "yweather"
+					}
+				],
+				"description": "<img src=\"http://l.yimg.com/a/i/us/we/52/26.gif\"/> <BR /> <b>Current Conditions:</b> <BR />Cloudy <BR /> <BR /> <b>Forecast:</b> <BR /> Wed - Showers. High: 16Low: 10 <BR /> Thu - Mostly Cloudy. High: 15Low: 8 <BR /> Fri - Rain. High: 15Low: 8 <BR /> Sat - Rain. High: 16Low: 9 <BR /> Sun - Showers. High: 14Low: 9 <BR /> <BR /> <a href=\"http://us.rd.yahoo.com/dailynews/rss/weather/Country__Country/*https://weather.yahoo.com/country/state/city-2502265/\">Full Forecast at Yahoo! Weather</a> <BR /> <BR /> <BR /> ",
+				"guid": {
+					"_isPermaLink": "false"
+				}
+			}
+		},
+		"_xmlns:geo": "http://www.w3.org/2003/01/geo/wgs84_pos#",
+		"_xmlns:yweather": "http://xml.weather.yahoo.com/ns/rss/1.0",
+		"_version": "2.0"
+	}
+}
